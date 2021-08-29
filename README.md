@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitpawar4507
 - 👀 I’m interested in ...making some projects
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...some project on Java
 - 📫 How to reach me ...my mail rohitpawar4507@gmail.com
 
